@@ -6,3 +6,5 @@ esto es un demo.
 
 - Jose  Maradiaga  josearmandomaradiagameza825@gmail.com
 - sutanita y  miletos <sutanita@deve.com>
+
+otro developer fulanodetal@gmail.com
