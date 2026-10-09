@@ -4,4 +4,5 @@ esto es un demo.
 
 ## developers
 
-- Jose Armando Maradiaga Meza josearmandomaradiagameza825@gmail.com
+- Jose  Maradiaga  josearmandomaradiagameza825@gmail.com
+- sutanita y  miletos <sutanita@deve.com>
